@@ -8,7 +8,7 @@ I'm a **Software Engineer** passionate about building scalable products that sol
 
 * 📱 Build mobile apps with **React Native** and **Expo**
 * 🌐 Build modern web applications with **Next.js**
-* 🔧 Develop backend services using **Node.js**, **NestJS**, and **Prisma**
+* 🔧 Develop backend services using **Node.js**, **NestJS** **GO**
 * 🧠 Explore system design, data, and emerging technologies
 * ⚙️ Design APIs, authentication flows, and scalable architectures
 
